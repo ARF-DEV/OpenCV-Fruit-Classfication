@@ -1,0 +1,7 @@
+Link folder berisi raw data : https://drive.google.com/drive/folders/1KEqihQLIw03btTCIHr5oDhyWcuFRKCDd
+
+Cara agar bisa mengakses isi folder dan kodingan di dalamnya agar bisa berjalan semestinya :
+
+1. Klik link di atas
+2. Klik nama folder di bagian atas (KUMPULAN FOTO HARAM)
+3. Klik "Add Shortcut to Drive" untuk menambahkan folder tersebut ke drive anda, agar bisa mengakses raw datanya
