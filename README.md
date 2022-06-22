@@ -1,1 +1,1 @@
-# OpenCV-Fruit-Classfication
+# OpenCV-Fruit-Classification
